@@ -1,7 +1,6 @@
 var config = {
-    token: 'techstack123456',
-    appid: 'wxd7ee10f6b3996719',
-    encodingAESKey: 'SbLVvAzc3uS4oW1ZipsARMTdlPgAYOInHDf25FK15SR'
+    token: 'lpp713430wwj',
+    appid: 'wx2949a45d4b565b24',
+    encodingAESKey: 'ydVeCMKacKBsPfPkBVkJtWqgKhOIDaiSps0q7OOX9Ka'
 };
-
 module.exports = config;
